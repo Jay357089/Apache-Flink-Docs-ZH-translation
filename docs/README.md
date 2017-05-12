@@ -12,8 +12,7 @@ dependencies are installed locally when you build the documentation through the
 `build_docs.sh` script. If you want to install the software manually, use Ruby's
 Bundler Gem to install all dependencies:
 
-    gem install bundler
-    bundle install
+    gem install bund
 
 Note that in Ubuntu based systems, it may be necessary to install the `ruby-dev`
 via apt to build native code.
