@@ -72,7 +72,7 @@ This will be replaced with the value of the variable called `NAME` when generati
 
 ### Page
 
-#### Headings
+#### Headings  
 
 All documents are structured with headings. From these headings, you can automatically generate a page table of contents (see below).
 
